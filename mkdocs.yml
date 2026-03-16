@@ -1,0 +1,28 @@
+site_name: Igor Vlasov
+site_description: Personal website created with MkDocs
+site_author: Igoryawa
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - toc.integrate
+    - navigation.top
+    - search.highlight
+    - search.share
+  icon:
+    logo: material/account
+nav:
+  - Главная: index.md
+  - Опыт работы: experience.md
+  - Проекты и другие активности: projects.md
+  - Контакты: contacts.md
+
+markdown_extensions:
+  - toc:
+      toc_depth: 2
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html

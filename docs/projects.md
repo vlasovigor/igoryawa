@@ -1,0 +1,2 @@
+- Лектор митапа "За пределами кода Soft Skills для трудоустройства", 2025: [Ссылка на запись RuTube](https://rutube.
+  ru/video/private/d2d223a239eb212a7ef7cca09b57c28a/?r=wd&p=YY6_iq5S5oF0XKG95hCZiA)
